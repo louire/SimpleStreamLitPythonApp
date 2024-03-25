@@ -1,4 +1,3 @@
-altair @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a8x4081_4h/croot/altair_1687526044471/work
 anyio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a17a7759g2/croot/anyio_1706220182417/work
 appnope @ file:///Users/ktietz/demo/mc3/conda-bld/appnope_1629146036738/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
