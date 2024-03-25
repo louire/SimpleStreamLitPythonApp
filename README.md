@@ -1,11 +1,10 @@
 # Doing a quick check about how streamlit works 
 
 
-Dashboard in python using streamlit
-## Demo app
-
-
-
+## Demo app about Mortgage Repayments Calculator
+Streamlt it's a great tool to create web apps with python, it's very easy to use and it's very powerful.
+I do this project to learn how to use it and to create a simple app that can help me to understand how to use it.
+A simple mortgage repayments calculator, where you can input the amount of the loan, the interest rate, and the number of years to repay the loan, and it will calculate the monthly repayments.
 
 
 
